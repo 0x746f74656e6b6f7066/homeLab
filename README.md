@@ -1,12 +1,8 @@
 # homelab
 
-Personal offensive-security lab built on a single Windows 11 host with VMware Workstation Pro. The goal is a safe, isolated, well-documented environment where I practise red-team techniques and, just as importantly, learn what the defender sees.
+Personal offensive-security lab
 
 Everything here is done on machines I own, on a network that has no route to the internet or to my home LAN.
-
-## Why this exists
-
-I come from a vocational IT programme and a 2-year CTeSP in cybersecurity and IT networks, and I am now studying Informatics Engineering. Study time is limited, so this lab is how I keep my practical skills sharp, one or two sessions a week. Every step is documented so I can rebuild it from scratch and so that a mistake I made once is never made twice.
 
 ## Current status
 
