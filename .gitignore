@@ -1,0 +1,37 @@
+# Virtual machine files (huge, and never belong in Git)
+*.vmdk
+*.vmx
+*.vmxf
+*.vmsd
+*.vmss
+*.vmem
+*.nvram
+*.lck/
+*.iso
+*.ova
+*.ovf
+
+# Archives and downloads
+*.7z
+*.zip
+*.rar
+
+# Logs and captures
+*.log
+*.pcap
+*.pcapng
+
+# Secrets and local configuration
+secrets/
+.env
+*.key
+*.pem
+id_rsa*
+
+# Raw tool output that may contain real addresses
+scans-raw/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
